@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title"><title id="title">a stopwatch with code brackets</title>
+<rect x="74" y="10" width="32" height="16" rx="6" fill="#f4ba60"/>
+<path d="M90 25V38M134 42l10-10" stroke="#f4ba60" stroke-width="8" stroke-linecap="round"/>
+<circle cx="90" cy="100" r="62" fill="#18283b" stroke="#8fa9f4" stroke-width="7"/>
+<path d="M90 50V58M140 100H132M90 150V142M40 100H48" stroke="#8fa9f4" stroke-width="5" stroke-linecap="round"/>
+<path d="m69 81-19 19 19 19M111 81l19 19-19 19M99 77l-18 46" fill="none" stroke="#f4ba60" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

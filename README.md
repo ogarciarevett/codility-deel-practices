@@ -1,4 +1,22 @@
-# React + TypeScript + Vite
+<div align="center">
+
+<img src="assets/codility-deel-practices.svg" width="180" alt="codility-deel-practices: a stopwatch with code brackets">
+
+# codility-deel-practices
+
+**Browser practice for JavaScript, SQL, and API coding challenges.**
+
+[![language: TypeScript](https://img.shields.io/badge/language-TypeScript-287ec1)](src/)
+[![React: 19](https://img.shields.io/badge/React-19-5865a8)](package.json)
+[![Vite: 8](https://img.shields.io/badge/Vite-8-b89a21)](package.json)
+
+Works with **React** · **Monaco Editor** · **PGlite**
+
+</div>
+
+---
+
+Practice timed coding challenges in the browser with example tests, correctness checks, and guided tutorials.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
