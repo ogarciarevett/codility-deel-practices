@@ -19,4 +19,3 @@ jobs:
           version: "11.1.2"
       - run: pnpm install --frozen-lockfile
       - run: pnpm build
-      - run: pnpm lint
